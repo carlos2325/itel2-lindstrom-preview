@@ -38,13 +38,16 @@ dibujo y la misma paleta. (Antes había dos cobres y dos escudos distintos en Li
 
 ## 2. Paletas
 
-### ITEL2 ENERGY — turquesa / azul / oro sobre tinta
+### ITEL2 ENERGY — cian (logo pájaro origami) sobre tinta
+> Logo oficial: **pájaro origami turquesa** (fichero raster `assets/brand/itel2/itel2-bird.png`,
+> fondo recortado a transparente e incrustado en los SVG de marca). El color cian del logo manda.
+
 | Rol | Token CSS | Hex |
 |---|---|---|
 | Fondo tinta | `--bg` | `#0A1016` |
 | Panel | `--panel-solid` | `#0F1822` |
-| Acento primario (turquesa) | `--accent` | `#7DE2D1` |
-| Acento fuerte (azul) | `--accent-strong` | `#55B8FF` |
+| **Cian (acento primario, del logo)** | `--accent` | `#00A8B8` |
+| Cian claro (hover) | `--accent-strong` | `#33C6D2` |
 | Oro (líneas / detalle) | `--gold` | `#D8C28B` |
 | Texto | `--text` | `#EDF3F8` |
 | Texto atenuado | `--muted` | `#9FB0BF` |

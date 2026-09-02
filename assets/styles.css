@@ -9,8 +9,8 @@
   --text: #edf3f8;
   --brand-white: #edf3f8;
   --muted: #9fb0bf;
-  --accent: #7de2d1;
-  --accent-strong: #55b8ff;
+  --accent: #00A8B8;
+  --accent-strong: #33C6D2;
   --gold: #d8c28b;
   --shadow: 0 30px 80px rgba(0, 0, 0, 0.35);
   --radius-lg: 28px;
@@ -538,7 +538,7 @@ img {
   margin: 0 0 18px;
   padding: 8px 12px;
   border-radius: 999px;
-  border: 1px solid rgba(125, 226, 209, 0.26);
+  border: 1px solid rgba(0, 168, 184, 0.32);
   background: rgba(8, 15, 31, 0.76);
   color: var(--muted);
   font-family: var(--mono);
