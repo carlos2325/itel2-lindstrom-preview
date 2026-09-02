@@ -1076,6 +1076,29 @@ body[data-page="lindstrom"] .field textarea:focus {
   color: var(--gold);
 }
 
+.page-banner {
+  position: relative;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid var(--line);
+}
+
+.page-banner img {
+  width: 100%;
+  height: auto;
+  max-height: 340px;
+  object-fit: cover;
+  display: block;
+}
+
+.page-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 55%, rgba(7, 12, 18, 0.55));
+  pointer-events: none;
+}
+
 .card__icon {
   width: 46px;
   height: 46px;
