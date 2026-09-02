@@ -1076,6 +1076,23 @@ body[data-page="lindstrom"] .field textarea:focus {
   color: var(--gold);
 }
 
+.card__icon {
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  color: var(--accent);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--line);
+  margin-bottom: 14px;
+}
+
+.card__icon svg {
+  width: 24px;
+  height: 24px;
+}
+
 .process__step {
   position: relative;
   display: flex;
