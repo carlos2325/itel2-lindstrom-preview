@@ -1,0 +1,11 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="itel2-icon-title itel2-icon-desc">
+  <title id="itel2-icon-title">Isotipo ITEL2 ENERGY</title>
+  <desc id="itel2-icon-desc">App icon de ITEL2 ENERGY: monograma I2 con barra de referencia dorada y acentos de energía.</desc>
+  <rect width="256" height="256" rx="64" fill="#0C1219"/>
+  <rect x="28" y="28" width="200" height="200" rx="48" fill="#0F1822" stroke="#223244" stroke-width="2"/>
+  <path d="M74 90H182" stroke="#D8C28B" stroke-width="12" stroke-linecap="round"/>
+  <path d="M128 90V176" stroke="#F2F6F9" stroke-width="16" stroke-linecap="round"/>
+  <path d="M89 176H166C177.598 176 187 166.598 187 155C187 143.402 177.598 134 166 134H126" stroke="#F2F6F9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76 74L94 56" stroke="#55B8FF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M162 56H186" stroke="#7DE2D1" stroke-width="10" stroke-linecap="round"/>
+</svg>

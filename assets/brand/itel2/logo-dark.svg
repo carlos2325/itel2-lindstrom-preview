@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 90" width="470" height="90" fill="none" role="img" aria-labelledby="itel2-dark-title">
+  <title id="itel2-dark-title">ITEL2 ENERGY — logotipo horizontal (fondo oscuro)</title>
+  <g transform="translate(6 6) scale(0.305)">
+    <rect width="256" height="256" rx="64" fill="#0C1219"/>
+    <rect x="28" y="28" width="200" height="200" rx="48" fill="#0F1822" stroke="#223244" stroke-width="2"/>
+    <path d="M74 90H182" stroke="#D8C28B" stroke-width="12" stroke-linecap="round"/>
+    <path d="M128 90V176" stroke="#F2F6F9" stroke-width="16" stroke-linecap="round"/>
+    <path d="M89 176H166C177.598 176 187 166.598 187 155C187 143.402 177.598 134 166 134H126" stroke="#F2F6F9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M76 74L94 56" stroke="#55B8FF" stroke-width="10" stroke-linecap="round"/>
+    <path d="M162 56H186" stroke="#7DE2D1" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="100" y="46" font-family="'Barlow Condensed', 'DIN Alternate', Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3" fill="#F2F6F9">ITEL2 ENERGY</text>
+  <text x="101" y="68" font-family="'Inter', -apple-system, sans-serif" font-size="9" font-weight="600" letter-spacing="3" fill="#7DE2D1">INTERNATIONAL ENERGY TRADING &amp; COMMODITIES</text>
+</svg>
